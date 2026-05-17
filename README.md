@@ -1,5 +1,7 @@
 # DevTools Store
 
+**🔴 Live Demo:** [https://dev-tools-store.vercel.app/](https://dev-tools-store.vercel.app/)
+
 ## 🚀 Project Overview
 DevTools Store is a polished AI-powered developer product storefront built with Next.js, Stripe, and Supabase. It demonstrates modern checkout flows, subscription billing, webhook-driven order processing, and a lightweight admin dashboard for viewing customers, payments, and subscriptions.
 

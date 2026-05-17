@@ -1,5 +1,7 @@
 # Stripe Payment Gateway Testing Guide
 
+**🔴 Live Test Environment:** [https://dev-tools-store.vercel.app/](https://dev-tools-store.vercel.app/)
+
 This guide provides comprehensive test cases and card details to verify the Stripe payment flow in the application. Ensure your application is using Stripe **Test Mode** API keys before attempting these scenarios. Never use real card details in test mode.
 
 ## 1. General Payment Flow Test (Successful Payments)
